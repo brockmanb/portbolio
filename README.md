@@ -4,6 +4,8 @@
 
 This is my professional resume as a static webpage.  If I ever find myself unemployed, you can bet this project will become a lot more rich and dynamic ;)
 
+View it [here](https://brockmanb.github.io/portbolio/)
+
 ## Credits
 
 - [HTML5 Boilerplate](https://html5boilerplate.com/) for all the - you guessed it - boilerplate.
