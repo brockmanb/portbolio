@@ -99,15 +99,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
   font-family: 'Source Code Pro', monospace;
   color: #424242;
   font-size: 1.25em;
 }
-@media only screen and (max-width: 1400px) {
+@media only screen and (max-width: 1200px) {
   body {
-    max-width: 95%;
+    max-width: 90%;
   }
 }
 .hl_txt {
@@ -144,7 +144,9 @@ body {
 .resume .job_tech {
   font-style: italic;
 }
-
+.resume ul > li:not(:first-of-type) {
+  margin-top: .5em;
+}
 
 
 
