@@ -105,6 +105,11 @@ body {
   color: #424242;
   font-size: 1.25em;
 }
+@media only screen and (max-width: 1400px) {
+  body {
+    max-width: 95%;
+  }
+}
 .hl_txt {
   color: #e91d63;
 }
